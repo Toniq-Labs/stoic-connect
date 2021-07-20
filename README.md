@@ -1,1 +1,1 @@
-# stoic-connect
+# Stoic Connect - Chrome Extension
